@@ -1,0 +1,18 @@
+git --version
+
+==> to configure git config file
+git config --global user.name "Sagar Jaiswal"
+git config --global user.email "mgsjai@gmail.com"
+
+==>to check config file
+giit config --global user.email
+
+==> to change config file
+git config --global --edit
+
+=> to initialise git
+git init
+=> to check .git file
+ls -a 
+
+#testing
